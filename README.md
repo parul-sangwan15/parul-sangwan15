@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--                                          Banner                          -->
 <p align="center">
   <a href="https://www.linkedin.com/in/parul-kumari-8b1855222">
-    <img src="C:\Users\parul\OneDrive\Desktop\Codes\parul-sangwan15\Banner.webp" height="450" alt="Visit my LinkedIn profile"/>
+    <img src="![alt text](Banner.webp)" height="450" alt="Visit my LinkedIn profile"/>
   </a>
 </p>
 
