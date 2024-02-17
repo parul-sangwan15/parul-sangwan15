@@ -77,9 +77,15 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--                                     Stats section                        -->
+
+<img align="right" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="300px">
+<h2>Stats</h2>
 <br>
-<!--                                        About me                     -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml4MnV2czF4NTV4ZHlmdnQ3ZTY1cHU4dzEyaWxyMXg3NWdsaXNtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="400" height="200"/>
-</div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muditgarg48&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1588DDD3&stroke=1588DDD3&fire=B37920&currStreakNum=B37920&sideNums=B37920&currStreakLabel=B37920&sideLabels=77A2B5">
+
+<br>
+<h2>The End</h2>
+<br>
+<img src="https://i.gifer.com/4Cb2.gif" width="500px">
 
