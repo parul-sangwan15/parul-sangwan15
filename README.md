@@ -37,3 +37,35 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--                                        Social Media                      -->
+<p align="center">
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/parul-kumari-8b1855222" target="blank">
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Parul's Linkedin"/>
+<!--     <img align="center" src="https://img.icons8.com/color/2x/linkedin-circled--v3.gif" alt="Parul's Linkedin" height="50" width="50" /> -->
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.instagram.com/parul_sangwan15/#" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Parul's Instagram"/>
+<!--     <img align="center" src="https://img.icons8.com/color/2x/facebook-circled--v2.gif" alt="Parul's Instagram" height="50" width="50" /> -->
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/parul-sangwan15" target="blank">
+    <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Parul's GitHub"/>
+<!--     <img align="center" src="https://img.icons8.com/color/2x/internet--v2.gif" alt="Parul's GitHub" height="50" width="50" /> -->
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href = "mailto: parul.sangwan1501@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail to Parul"/>
+<!--     <img align="center" src="https://img.icons8.com/color/2x/gmail--v2.gif" alt="Write an email to Parul" height="50" width="50" /> -->
+  </a>
+  &nbsp;
+  &nbsp;
+</p>
+
+<br>
+
