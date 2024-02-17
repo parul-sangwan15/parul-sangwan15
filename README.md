@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <br>
+
+<!--                                          Banner                          -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/parul-kumari-8b1855222">
+    <img src="banner.png" height="450" alt="Visit my LinkedIn profile"/>
+  </a>
+</p>
+
+<hr>
+<br>
+
+<br>
 <!--                                      Welcome message                     -->
 <p align="center">
   <img src="https://img.icons8.com/color/2x/developer--v2.gif" width="50px" />
@@ -24,3 +36,4 @@ Here are some ideas to get you started:
 </p>
 
 <br>
+
