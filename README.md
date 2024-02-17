@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+<!--                                      Welcome message                     -->
+<p align="center">
+  <img src="https://img.icons8.com/color/2x/developer--v2.gif" width="50px" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hey+there!;I+am+Parul+Kumari;%F0%9F%91%8B+Welcome+to+my+GitHub">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+</p>
+
+<br>
