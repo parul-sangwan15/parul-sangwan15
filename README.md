@@ -77,3 +77,9 @@ Here are some ideas to get you started:
 
 <br>
 
+<br>
+<!--                                        About me                     -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml4MnV2czF4NTV4ZHlmdnQ3ZTY1cHU4dzEyaWxyMXg3NWdsaXNtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="600" height="300"/>
+</div>
+
