@@ -35,6 +35,14 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </p>
 
+
+<br>
+
+<!--                                          Titles                          -->
+<h2 align="center">Computer Engineer | Technical Enthusiast </h2>
+
+<br>
+
 <br>
 
 <!--                                        Social Media                      -->
