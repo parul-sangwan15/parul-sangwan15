@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 <!--                                     Stats section                        -->
 
-<img align="center" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="300px">
+<img align="right" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="200px">
 <h2>Stats</h2>
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=parul-sangwan15&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1588DDD3&stroke=1588DDD3&fire=B37920&currStreakNum=B37920&sideNums=B37920&currStreakLabel=B37920&sideLabels=77A2B5">
