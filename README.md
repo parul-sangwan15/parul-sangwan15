@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--                                          Banner                          -->
 <p align="center">
   <a href="https://www.linkedin.com/in/parul-kumari-8b1855222">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG03MDlidGYzaGt6Nnc1ZDVqMmE0bnI5YXh0YTg0MTd6ZjM4NGQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="450" alt="Visit my LinkedIn profile"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG03MDlidGYzaGt6Nnc1ZDVqMmE0bnI5YXh0YTg0MTd6ZjM4NGQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="350" alt="Visit my LinkedIn profile"/>
   </a>
 </p>
 
