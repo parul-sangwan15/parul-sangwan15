@@ -82,13 +82,13 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> graduated from Trinity College Dublin.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I have a strong foundation in technology concepts, programming languages, software development, and data analytics.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning web development and practicing data analysis.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parul-kumari-8b1855222)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ParulK-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parul-kumari-8b1855222)
 
 <!--                                     Skills section                        -->
 
