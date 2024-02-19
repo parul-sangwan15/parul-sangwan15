@@ -159,6 +159,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--     <img src="https://img.icons8.com/color/2x/jupyter--v2.gif" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
+  </details>    
 
 <details>
     <summary><h3 align="left"><i>:hammer_and_wrench:Technologies I am familiar with</i></h3></summary>
