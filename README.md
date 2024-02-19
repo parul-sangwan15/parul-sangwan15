@@ -212,7 +212,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=parul-sangwan15&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1588DDD3&stroke=1588DDD3&fire=B37920&currStreakNum=B37920&sideNums=B37920&currStreakLabel=B37920&sideLabels=77A2B5">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sangwan15&layout=compact&theme=vision-friendly-dark)](https://github.com/parul-sangwan15/github-readme-stats)
 <br>
 <h2>The End</h2>
 <br>
