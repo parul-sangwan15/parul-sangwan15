@@ -142,7 +142,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
    <details>
-    <summary><h3 align="left"><i>:bar_chart:Data analysis</i></h3></summary>
+    <summary><h3 align="left"><i>:bar_chart:Data analysis tools</i></h3></summary>
     <p align="left">  
       &nbsp;&nbsp;
       <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="70" width="70"/>
@@ -159,6 +159,23 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--     <img src="https://img.icons8.com/color/2x/jupyter--v2.gif" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
+
+<details>
+    <summary><h3 align="left"><i>:hammer_and_wrench:Technologies I am familiar with</i></h3></summary>
+    <p align="left"> 
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/windows11.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/git.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/matlab.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
 
 
 
