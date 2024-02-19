@@ -182,7 +182,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </details>
 
 <details>
-    <summary><h3 align="left"><i>:motorcycle:IDEs I am worked with</i></h3></summary>
+    <summary><h3 align="left"><i>:motorcycle:IDEs I have used</i></h3></summary>
     <p align="left">
       &nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="70" width="70"/>
