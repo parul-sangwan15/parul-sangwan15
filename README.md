@@ -141,6 +141,17 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </details>
 
 
+   <details>
+    <summary><h3 align="left"><i>:hammer_and_wrench:Data analysis</i></h3></summary>
+    <p align="left">  
+      &nbsp;&nbsp;
+      <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="70" width="70"/>
+  <!--     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70"/>
+
+
 
 
 
