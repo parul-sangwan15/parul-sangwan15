@@ -175,9 +175,31 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="70" width="70"/>
   <!--     <img src="https://img.icons8.com/color/2x/matlab.png" height="40" width="40" /> -->
       &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/cmake.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
     </p>
   </details>
 
+<details>
+    <summary><h3 align="left"><i>:motorcycle:IDEs I am worked with</i></h3></summary>
+    <p align="left">
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://img.icons8.com/color/2x/sublime-text.png" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/sublime-text.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/jetbrains.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
+
+<br>
 
 
 
