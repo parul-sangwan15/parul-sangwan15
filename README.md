@@ -117,6 +117,33 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     </p>
   </details>
 
+
+  <details>
+    <summary><h3 align="left"><i>:earth_asia:Web Development I know and learning</i></h3></summary>
+    <p align="left">  
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/html-5--v2.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/css3.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/javascript--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/bootstrap.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
+
+
+
+
+
 <!--                                     Stats section                        -->
 
 <img align="right" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="200px">
