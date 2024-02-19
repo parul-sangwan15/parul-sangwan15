@@ -189,7 +189,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--     <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
-      <img src="https://img.icons8.com/color/2x/pycharm-text.png" height="70" width="70"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/unitpycharm-original.svg" height="70" width="70"/>
   <!--     <img src="https://img.icons8.com/color/2x/pycharm-text.png" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
