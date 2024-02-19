@@ -150,6 +150,15 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
       &nbsp;
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70"/>
+     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" width="70"/>    -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/python--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/jupyter--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
 
 
 
