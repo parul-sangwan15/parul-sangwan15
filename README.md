@@ -162,7 +162,7 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   </details>    
 
 <details>
-    <summary><h3 align="left"><i>:hammer_and_wrench:Technologies I am familiar with</i></h3></summary>
+    <summary><h3 align="left"><i>:hammer_and_wrench:Technologies and sofwares I am familiar with</i></h3></summary>
     <p align="left"> 
       &nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="70" width="70"/>
@@ -189,12 +189,12 @@ I am a Computer engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!--     <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
-      <img src="https://img.icons8.com/color/2x/sublime-text.png" height="70" width="70"/>
-  <!--     <img src="https://img.icons8.com/color/2x/sublime-text.png" height="40" width="40" /> -->
+      <img src="https://img.icons8.com/color/2x/pycharm-text.png" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/pycharm-text.png" height="40" width="40" /> -->
       &nbsp;
       &nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" width="70"/>
-  <!--     <img src="https://img.icons8.com/color/2x/jetbrains.png" height="40" width="40" /> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/unity.png" height="40" width="40" /> -->
       &nbsp;&nbsp;
     </p>
   </details>
