@@ -11,9 +11,7 @@
 
 <!--                                      Welcome message                     -->
 <p align="center">
-  <img src="https://img.icons8.com/color/2x/developer--v2.gif" width="50px" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=520&lines=Hey+there!;I+am+Parul+Kumari;%F0%9F%91%8B+Welcome+to+my+GitHub">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </p>
 
 <h2 align="center">Software Engineer · Java · Spring Boot · Microservices · Kafka</h2>
@@ -26,7 +24,7 @@
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Parul's Linkedin"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/parul-kumari" target="blank">
+  <a href="https://github.com/parul-sangwan15" target="blank">
     <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Parul's GitHub"/>
   </a>
   &nbsp;&nbsp;
