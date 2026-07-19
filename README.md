@@ -4,9 +4,7 @@
 
 <!--                                          Banner                          -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/parul-kumari-8b1855222">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG03MDlidGYzaGt6Nnc1ZDVqMmE0bnI5YXh0YTg0MTd6ZjM4NGQzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" alt="Visit my LinkedIn profile"/>
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 </p>
 
 <hr>
@@ -14,11 +12,11 @@
 <!--                                      Welcome message                     -->
 <p align="center">
   <img src="https://img.icons8.com/color/2x/developer--v2.gif" width="50px" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=520&lines=Hey+there!;I+am+Parul+Kumari;Backend+Engineer+%7C+Java+%2F+Spring+Boot;%F0%9F%91%8B+Welcome+to+my+GitHub">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&random=false&width=520&lines=Hey+there!;I+am+Parul+Kumari;%F0%9F%91%8B+Welcome+to+my+GitHub">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </p>
 
-<h2 align="center">Software Engineer | Java · Spring Boot · Microservices · Kafka</h2>
+<h2 align="center">Software Engineer · Java · Spring Boot · Microservices · Kafka</h2>
 
 <br>
 
@@ -59,18 +57,18 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 <br>
 
 <details open>
-<summary><h3 align="left"><i>☕ Languages & Backend</i></h3></summary>
+<summary><b><i>☕ &nbsp;Languages & Backend</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="60" width="60"/>&nbsp;&nbsp;
 </p>
 <p align="left"><i>Java 17 · Spring Boot · Spring MVC · Spring Security · REST APIs · Microservices · Apache Kafka · Apache Camel · C/C++</i></p>
 </details>
 
 <details>
-<summary><h3 align="left"><i>☁️ Cloud & DevOps</i></h3></summary>
+<summary><b><i>☁️ &nbsp;Cloud & DevOps</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
@@ -81,18 +79,19 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 </details>
 
 <details>
-<summary><h3 align="left"><i>🗄️ Databases & Tools</i></h3></summary>
+<summary><b><i>🗄️ &nbsp;Databases & Tools</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="60" width="60"/>&nbsp;&nbsp;
 </p>
-<p align="left"><i>MySQL · SQL Server · Maven · IntelliJ IDEA · Postman · Jira</i></p>
+<p align="left"><i>MySQL · SQL Server · PostgreSQL · Maven · IntelliJ IDEA · Postman · Jira</i></p>
 </details>
 
 <details>
-<summary><h3 align="left"><i>🌐 Frontend</i></h3></summary>
+<summary><b><i>🌐 &nbsp;Frontend</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="60"/>&nbsp;&nbsp;
@@ -110,14 +109,13 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 - **Event-Driven Data Integration Platform (Kafka)** — Architected a fault-tolerant event-driven system across 5+ services with retry logic, idempotent consumers, and DLQ handling; achieved zero message loss over 3 months of load testing.
 
 <br>
-
 <!--                                     Stats section                        -->
 <h2>📊 GitHub Stats</h2>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul-kumari&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parul-kumari&theme=vision-friendly-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parul-sangwan15&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parul-sangwan15&theme=vision-friendly-dark&hide_border=true" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-kumari&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sangwan15&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
 </p>
