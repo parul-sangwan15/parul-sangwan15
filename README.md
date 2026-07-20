@@ -65,7 +65,7 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 <p align="left"><i>Java 17 · Spring Boot · Spring MVC · Spring Security · REST APIs · Microservices · Apache Kafka · Apache Camel · C/C++</i></p>
 </details>
 
-<details>
+<details open>
 <summary><b><i>☁️ &nbsp;Cloud & DevOps</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
@@ -76,7 +76,7 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 <p align="left"><i>AWS (EC2, S3) · Docker · CI/CD · GitLab · Prometheus</i></p>
 </details>
 
-<details>
+<details open>
 <summary><b><i>🗄️ &nbsp;Databases & Tools</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
@@ -88,7 +88,7 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale �
 <p align="left"><i>MySQL · SQL Server · PostgreSQL · Maven · IntelliJ IDEA · Postman · Jira</i></p>
 </details>
 
-<details>
+<details open>
 <summary><b><i>🌐 &nbsp;Frontend</i></b></summary>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" height="60" width="60"/>&nbsp;&nbsp;
