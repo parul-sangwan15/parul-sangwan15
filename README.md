@@ -108,12 +108,12 @@ I'm a Backend Engineer with 2+ years building production Java systems at scale â
 
 <br>
 <!--                                     Stats section                        -->
-<h2>ðŸ“Š GitHub Stats</h2>
+<img align="right" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="200px">
+<h2>Stats</h2>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parul-sangwan15&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parul-sangwan15&theme=vision-friendly-dark&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sangwan15&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-</p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=parul-sangwan15&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1588DDD3&stroke=1588DDD3&fire=B37920&currStreakNum=B37920&sideNums=B37920&currStreakLabel=B37920&sideLabels=77A2B5">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parul-sangwan15&layout=compact&theme=vision-friendly-dark)](https://github.com/parul-sangwan15/github-readme-stats)
+<br>
+<h2>The End</h2>
+<br>
